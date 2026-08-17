@@ -66,9 +66,14 @@ The command processes both views, calibrates the frozen prediction branch from t
 
 ## Demo videos
 
-- [Two-view pose fusion example 1](Video/ext_plane_two_view_fusion.mp4)
-- [Two-view pose fusion example 2](Video/play_load_two_view_fusion.mp4)
+### Two-view pose-fusion example 1
 
-The MP4 files are stored in the repository so they can be opened directly from GitHub.
+![Two-view pose-fusion example for the external plane](Video/ext_plane_two_view_fusion.webp)
+
+### Two-view pose-fusion example 2
+
+![Two-view pose-fusion example for the payload](Video/play_load_two_view_fusion.webp)
+
+The animated previews play directly on the GitHub page. The original MP4 files are stored in the same directory.
 
 Use `python multiview_bop_eval.py --help` to see all available options.

@@ -113,7 +113,14 @@ MultiView supports `left`, `right`, and `both` views and reports ADD, ADD-S, ADD
 
 ## MultiView video examples
 
-- [Two-view pose-fusion example 1](multiview_pose_esitmation/Video/ext_plane_two_view_fusion.mp4)
-- [Two-view pose-fusion example 2](multiview_pose_esitmation/Video/play_load_two_view_fusion.mp4)
+### Two-view pose-fusion example 1
+
+![Two-view pose-fusion example for the external plane](multiview_pose_esitmation/Video/ext_plane_two_view_fusion.webp)
+
+### Two-view pose-fusion example 2
+
+![Two-view pose-fusion example for the payload](multiview_pose_esitmation/Video/play_load_two_view_fusion.webp)
+
+The animated previews play directly on the GitHub repository page. The original MP4 files are retained in `multiview_pose_esitmation/Video/`.
 
 All values enclosed in angle brackets are placeholders and must be replaced with local dataset, model, or output paths.
