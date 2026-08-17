@@ -1,0 +1,6 @@
+# Install a platform-appropriate PyTorch build before this file.
+genesis-world @ git+https://github.com/Genesis-Embodied-AI/genesis-world.git@639131dcfe3ed6cf4fe5d469e02389fb4e70a595
+numpy==1.26.4
+trimesh>=4.8.2
+python-fcl==0.7.0.11
+openpyxl==3.1.5

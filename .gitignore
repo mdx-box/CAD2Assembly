@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Downloaded third-party projects and model checkpoints
+multiview_pose_esitmation/sam2/
+multiview_pose_esitmation/foundationpose/
+multiview_pose_esitmation/nvdiffrast/
+*.pt
+*.pth
+*.ckpt
+
+# Local datasets, CAD models, caches, and generated results
+Indust_dataset/
+datasets/
+records/
+results/
+results_*/
+.genesis_cache_*/
+*.obj
+*.stl
+*.ply
+
+# Nested repository metadata
+**/.git/
