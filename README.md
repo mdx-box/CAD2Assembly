@@ -109,7 +109,9 @@ python multiview_bop_eval.py \
   --no_display
 ```
 
-MultiView supports `left`, `right`, and `both` views and reports ADD, ADD-S, ADD(-s), VSD, MSSD, MSPD, and average recall. See [the MultiView module documentation](multiview_pose_esitmation/README.md) for the dataset contract and additional options.
+MultiView supports `left`, `right`, and `both` views and reports ADD, ADD-S, ADD(-s), VSD, MSSD, MSPD, and average recall. See [the MultiView module documentation](multiview_pose_esitmation/README.md) for the dataset contract and additional options. 
+
+Note: You can download the self-made dataset from https://doi.org/10.6084/m9.figshare.33275673. 
 
 ## MultiView video examples
 
